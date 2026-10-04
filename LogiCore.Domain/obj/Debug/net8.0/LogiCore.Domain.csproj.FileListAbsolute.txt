@@ -1,0 +1,11 @@
+D:\harness\LogiCore\LogiCore\LogiCore\LogiCore.Domain\bin\Debug\net8.0\LogiCore.Domain.deps.json
+D:\harness\LogiCore\LogiCore\LogiCore\LogiCore.Domain\bin\Debug\net8.0\LogiCore.Domain.dll
+D:\harness\LogiCore\LogiCore\LogiCore\LogiCore.Domain\bin\Debug\net8.0\LogiCore.Domain.pdb
+D:\harness\LogiCore\LogiCore\LogiCore\LogiCore.Domain\obj\Debug\net8.0\LogiCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\harness\LogiCore\LogiCore\LogiCore\LogiCore.Domain\obj\Debug\net8.0\LogiCore.Domain.AssemblyInfoInputs.cache
+D:\harness\LogiCore\LogiCore\LogiCore\LogiCore.Domain\obj\Debug\net8.0\LogiCore.Domain.AssemblyInfo.cs
+D:\harness\LogiCore\LogiCore\LogiCore\LogiCore.Domain\obj\Debug\net8.0\LogiCore.Domain.csproj.CoreCompileInputs.cache
+D:\harness\LogiCore\LogiCore\LogiCore\LogiCore.Domain\obj\Debug\net8.0\LogiCore.Domain.dll
+D:\harness\LogiCore\LogiCore\LogiCore\LogiCore.Domain\obj\Debug\net8.0\refint\LogiCore.Domain.dll
+D:\harness\LogiCore\LogiCore\LogiCore\LogiCore.Domain\obj\Debug\net8.0\LogiCore.Domain.pdb
+D:\harness\LogiCore\LogiCore\LogiCore\LogiCore.Domain\obj\Debug\net8.0\ref\LogiCore.Domain.dll

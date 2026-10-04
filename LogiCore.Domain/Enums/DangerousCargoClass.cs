@@ -1,0 +1,14 @@
+﻿namespace LogiCore.Domain.Enums;
+
+public enum DangerousCargoClass
+{
+    Class1 = 1,
+    Class2 = 2,
+    Class3 = 3,
+    Class4 = 4,
+    Class5 = 5,
+    Class6 = 6,
+    Class7 = 7,
+    Class8 = 8,
+    Class9 = 9
+}
